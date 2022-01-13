@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E48-8249
+
+ Directory of C:\Users\HP\OneDrive\Desktop\JavaProject
+
+13/01/2022  08:53 AM    <DIR>          .
+13/01/2022  08:53 AM    <DIR>          ..
+13/01/2022  08:53 AM                 0 hellonumbere.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  371,005,206,528 bytes free
