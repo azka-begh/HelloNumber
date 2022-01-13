@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E48-8249
+
+ Directory of C:\Users\HP\OneDrive\Desktop\JavaProject
+
+13/01/2022  09:37 AM    <DIR>          .
+13/01/2022  09:37 AM    <DIR>          ..
+13/01/2022  09:37 AM                 0 2dbrain.txt
+13/01/2022  08:53 AM               369 hellonumbere.txt
+13/01/2022  09:32 AM               521 Patterns.class
+13/01/2022  09:06 AM               264 Patterns.java
+13/01/2022  09:31 AM               531 Patterns.txt
+               5 File(s)          1,685 bytes
+               2 Dir(s)  370,819,145,728 bytes free
